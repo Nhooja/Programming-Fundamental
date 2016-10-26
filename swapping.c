@@ -4,7 +4,7 @@ Subject: Programming Fundamental
 Roll: 
 Lab No:
 Programme: 
-Date:
+Date: October 2016
 */
 
 #include<stdio.h>
